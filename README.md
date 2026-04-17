@@ -24,3 +24,7 @@ Uses PlatformIO with Arduino framework.
 | REF_CLK | 0 |
 | OSC Enable | 16 |
 | PHY Addr | 1 |
+
+## Reference
+
+Based on [egnor/wt32-eth01](https://github.com/egnor/wt32-eth01) — comprehensive WT32-ETH01 documentation and code examples.
